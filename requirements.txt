@@ -1,0 +1,6 @@
+pyautogen
+openai
+python-dotenv
+pandas
+matplotlib
+seaborn

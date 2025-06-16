@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+autogen_env/
+.gitattibutes/
+.cache/
+oai_config_list.json
+autogen
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Log files
+*.log
+
+# Environment variables / secrets
+*.env
+OAI_CONFIG_LIST
+
+
+# Python cache and build
