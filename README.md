@@ -141,18 +141,6 @@ You’ll see console outputs from each agent, including summaries and references
 
 ---
 
-
-##  Contributing
-
-PRs welcome! If you want to add:
-- New agent types (e.g., ReportGenerator)
-- Advanced analysis like forecasting
-- Integration with LangChain/ChromaDB
-
-Please submit an issue or open a pull request.
-
----
-
 ##  Contact
 
 **Rohit Kumar**  
